@@ -21,4 +21,4 @@
 
 
 
-**3.** Links to awesome websites like [Bird of the Year](https://www.birdoftheyear.org.nz/)
+**3.** Links to awesome websites such as [Bird of the Year](https://www.birdoftheyear.org.nz/)
