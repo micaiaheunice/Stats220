@@ -8,7 +8,7 @@
 * I am currently taking a conjoint of *Bachelor of Nursing 👩🏻‍⚕️ and Bachelor of Science majoring in Pharmacology 💊 and Statistics 📈*. 
 
 
-## What can you expect from this page?
+### What can you expect from this page?
 
 <!--- numbered list  --->
 **1.** Application of Stats 220 teachings
